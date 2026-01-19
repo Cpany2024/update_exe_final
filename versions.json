@@ -1,0 +1,7 @@
+{
+    "app_name": "Navify",
+    "latest_version": "1.1.0",
+    "download_url": "https://github.com/yourusername/navify-releases/releases/download/v1.1.0/Navify_v1.1.0.exe",
+    "release_notes": "Bug fixes and performance improvements",
+    "min_required_version": "1.0.0"
+}
